@@ -1,0 +1,32 @@
+﻿Сборка начата 26.12.2021 22:54:59.
+Уровень детализации журнала: Normal.     1>Проект "D:\ОПИ\Лабы\лаб 12\Лаб 12 ОПИ\Лаб 12 ОПИ.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Лаб 12 ОПИ.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt main.cpp
+         main.cpp
+     1>D:\ОПИ\Лабы\лаб 12\Лаб 12 ОПИ\snake.h(39,22): warning C4101: cci: неиспользованная локальная переменная
+     1>D:\ОПИ\Лабы\лаб 12\Лаб 12 ОПИ\XO.h(21,23): warning C4101: cci: неиспользованная локальная переменная
+     1>D:\ОПИ\Лабы\лаб 12\Лаб 12 ОПИ\XO.h(83,22): warning C4101: cci: неиспользованная локальная переменная
+     1>D:\ОПИ\Лабы\лаб 12\Лаб 12 ОПИ\XO.h(153,29): warning C4309: =: усечение константного значения
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ОПИ\Лабы\лаб 12\Лаб 12 ОПИ\Debug\Лаб 12 ОПИ.exe" /INCREMENTAL /ILK:"Debug\Лаб 12 ОПИ.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\ОПИ\Лабы\лаб 12\Лаб 12 ОПИ\Debug\Лаб 12 ОПИ.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ОПИ\Лабы\лаб 12\Лаб 12 ОПИ\Debug\Лаб 12 ОПИ.lib" /MACHINE:X86 Debug\main.obj
+         Лаб 12 ОПИ.vcxproj -> D:\ОПИ\Лабы\лаб 12\Лаб 12 ОПИ\Debug\Лаб 12 ОПИ.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Лаб 12 ОПИ.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Лаб 12 ОПИ.tlog\Лаб 12 ОПИ.lastbuildstate".
+     1>Сборка проекта "D:\ОПИ\Лабы\лаб 12\Лаб 12 ОПИ\Лаб 12 ОПИ.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\ОПИ\Лабы\лаб 12\Лаб 12 ОПИ\Лаб 12 ОПИ.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\ОПИ\Лабы\лаб 12\Лаб 12 ОПИ\snake.h(39,22): warning C4101: cci: неиспользованная локальная переменная
+         D:\ОПИ\Лабы\лаб 12\Лаб 12 ОПИ\XO.h(21,23): warning C4101: cci: неиспользованная локальная переменная
+         D:\ОПИ\Лабы\лаб 12\Лаб 12 ОПИ\XO.h(83,22): warning C4101: cci: неиспользованная локальная переменная
+         D:\ОПИ\Лабы\лаб 12\Лаб 12 ОПИ\XO.h(153,29): warning C4309: =: усечение константного значения
+
+    Предупреждений: 4
+    Ошибок: 0
+
+Прошло времени 00:00:01.82
